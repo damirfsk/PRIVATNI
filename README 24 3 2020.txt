@@ -1,0 +1,4 @@
+https://github.com/akrajilwar/Android-Login-And-Registration
+https://github.com/Balaviknesh/Android-Java-Firebase-Login-Example
+https://github.com/kreait/firebase-php
+https://github.com/firebase/quickstart-js
